@@ -1,2 +1,0 @@
-# LeadScore
-Lead_Score
